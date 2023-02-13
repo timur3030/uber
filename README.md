@@ -2,4 +2,4 @@
 
 ## Пример адаптивного сайта
 
-[HTML & CSS](https://timur3030.github.io/resume/)
+[UBER](https://timur3030.github.io/uber/)
