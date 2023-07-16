@@ -1,3 +1,5 @@
-# Uber - Пример адаптивного сайта
+# Uber
 
-[UBER] (http://timur3030.github.io/uber/)
+## Пример адаптивного сайта
+
+[UBER](http://timur3030.github.io/uber/)
